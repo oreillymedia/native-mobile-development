@@ -1,0 +1,37 @@
+[
+    {
+        "street_address": "123 Eiffel Tower Street",
+        "city": "Paris",
+        "country": "France",
+        "emoji": "🇫🇷",
+        "hours": "8am–7pm"
+    },
+    {
+        "street_address": "86 Libery Boulevard",
+        "city": "New York",
+        "country": "America",
+        "emoji": "🇺🇸",
+        "hours": "6am–10pm"
+    },
+    {
+        "street_address": "49 Lombard Street",
+        "city": "San Francisco",
+        "country": "America",
+        "emoji": "🇺🇸",
+        "hours": "8am–8pm"
+    },
+    {
+        "street_address": "1901 Aussie Way",
+        "city": "Melbourne",
+        "country": "Australia",
+        "emoji": "🇦🇺",
+        "hours": "7am–8pm"
+    },
+    {
+        "street_address": "302 Deutsch Avenue",
+        "city": "Berlin",
+        "country": "Germany",
+        "emoji": "🇩🇪",
+        "hours": "9am–6pm"
+    }
+]
