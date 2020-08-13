@@ -1,0 +1,17 @@
+<resources>
+
+  <string name="app_name">Dunn &amp; Lewis Memorial Library</string>
+
+  <string name="introduction">Welcome to the app for the Dunn &amp; Lewis Memorial Library!  This library includes books of all stripes,
+  from code books on Java 8 to code books on Java 9!</string>
+  <string name="terms">All books in the Dunn &amp; Lewis Memorial Library are copyrighted by their respective authors, and all state and federal copyright laws apply in full effect and will be enforced by the library.</string>
+  <string name="terms_accept_label">Do you accept these terms?</string>
+  <string name="browse_button_label">Browser</string>
+
+  <string name="detail_title">Book Title: %s</string>
+  <string name="detail_authors">Book Authors: %s</string>
+  <string name="detail_isbn">Book ISBN: %s</string>
+  <string name="detail_pagecount">Book Page Count: %d</string>
+  <string name="detail_isfiction">Book is fiction: %b</string>
+
+</resources>

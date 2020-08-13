@@ -1,0 +1,7 @@
+<resources>
+
+  <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    <item name="android:windowBackground">@drawable/launch_drawable</item>
+  </style>
+
+</resources>
